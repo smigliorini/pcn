@@ -23,10 +23,11 @@ public class TwitterService {
 
   // ===========================================================================
 
-  private static String consumerKey = "DFpGJ3HwP9mdfGmnvUiUzCM4x";
-  private static String consumerSecret = "HIzTdJJB0YKcKHjlEteM9mGP8vmYU364N1jjgSd6Qn81PZIoOO";
-  private static String accessToken = "1347521443949662210-DM7xi1fwRSh5ZsqSSOvjlEOh5lgX8j";
-  private static String accessTokenSecret = "Uc6LQVlLRh9jHrwAorpnMvzh9ymfGHx7yiMt0KYdTzvEh";
+  // put your data!!!
+  private static String consumerKey = "***********";
+  private static String consumerSecret = "******************";
+  private static String accessToken = "****************";
+  private static String accessTokenSecret = "********************";
 
   // singleton static instance
   private static Twitter twitter;
